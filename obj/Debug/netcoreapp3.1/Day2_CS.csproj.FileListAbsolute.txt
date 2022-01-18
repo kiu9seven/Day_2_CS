@@ -1,0 +1,13 @@
+E:\Day2_CS\bin\Debug\netcoreapp3.1\Day2_CS.exe
+E:\Day2_CS\bin\Debug\netcoreapp3.1\Day2_CS.deps.json
+E:\Day2_CS\bin\Debug\netcoreapp3.1\Day2_CS.runtimeconfig.json
+E:\Day2_CS\bin\Debug\netcoreapp3.1\Day2_CS.runtimeconfig.dev.json
+E:\Day2_CS\bin\Debug\netcoreapp3.1\Day2_CS.dll
+E:\Day2_CS\bin\Debug\netcoreapp3.1\Day2_CS.pdb
+E:\Day2_CS\obj\Debug\netcoreapp3.1\Day2_CS.csprojAssemblyReference.cache
+E:\Day2_CS\obj\Debug\netcoreapp3.1\Day2_CS.AssemblyInfoInputs.cache
+E:\Day2_CS\obj\Debug\netcoreapp3.1\Day2_CS.AssemblyInfo.cs
+E:\Day2_CS\obj\Debug\netcoreapp3.1\Day2_CS.csproj.CoreCompileInputs.cache
+E:\Day2_CS\obj\Debug\netcoreapp3.1\Day2_CS.dll
+E:\Day2_CS\obj\Debug\netcoreapp3.1\Day2_CS.pdb
+E:\Day2_CS\obj\Debug\netcoreapp3.1\Day2_CS.genruntimeconfig.cache
